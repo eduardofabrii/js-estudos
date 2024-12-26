@@ -1,2 +1,2 @@
 # js-estudos
-Estududos de JavaScript 
+Estudos de JavaScript 
