@@ -1,2 +1,7 @@
-# js-estudos
-Estudos de JavaScript 
+# JavaScript - Estudos
+
+Estudos de JavaScript.
+
+## Tecnologias
+
+- JavaScript
